@@ -11,3 +11,4 @@ storage/*.key
 Homestead.yaml
 Homestead.json
 .DS_Store
+.idea
